@@ -12,6 +12,12 @@ Requirements:
    
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Assignment 4: Final Project Abstract  
+
+Please post a title, author, and abstract for your Assignment 4: Interactive Creative Coding Final Project as a text submission to this assignment. The abstract is a paragraph of text that describes conceptual and technical aspects of your project. This content will be printed on cards to display next to your piece during the final project exhibition.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Title: Chromesthesia Concert  
 
 Artist: Lizzie McCracken   
