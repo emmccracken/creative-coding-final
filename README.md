@@ -1,5 +1,6 @@
 Assignment 4: Interactive Creative Coding Final Project (15 Points)   
-Due: Finals Period (Beginning of Class)  
+Due: Finals Period (Beginning of Class)   
+
 Use one of more of the technologies demonstrated in class to build an Interactive Creating Coding project that realizes ideas and/or concepts of your own that you find interesting. JavaScript, P5.js, Max, and Arduino are all available platforms, but other may be considered. In order to make your project interactive consider using sound, video, keyboard, mouse/trackpad, motion sensors, photo diodes, photo resistors, thermostats, datasets, streaming data, or other methods / sensors. Projection, animation, generative behaviors, Perlin Noise, data visualization, and data sonification are all possible avenues for your ideas.  
 
 
@@ -18,7 +19,7 @@ Please post a title, author, and abstract for your Assignment 4: Interactive Cre
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Title: Chromesthesia Concert  
+Abstract Title: Chromesthesia Concert  
 
 Artist: Lizzie McCracken   
 
@@ -26,4 +27,4 @@ Description: Chromesthesia Concert is an example of using a color sensor and an 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-I used a combination of an Arduino, color sensor, and a speaker, to accomplish this task. The calibration of the color sensor was difficult- and I utilized some skeleton  code I found online at https://lastminuteengineers.com/tcs230-tcs3200-color-sensor-arduino-tutorial/ to get me started. Then I had to code values for more than just RGB, and ended up with a fully functioning rainbow piano. I showcased this at my Creative Coding class's final exhibition, and had colored sheet music I created for attendees to test my project. I also had my Arduino code pulled up, which was printing the color it sensed while playing its according musical note.
+I used a combination of an Arduino, a color sensor, and a speaker to accomplish this task. The calibration of the color sensor was complex- and I utilized some skeleton code I found online at https://lastminuteengineers.com/tcs230-tcs3200-color-sensor-arduino-tutorial/ to get started. Then, I had to code values for more than just RGB and ended up with a fully functioning rainbow piano. I showcased this at my Creative Coding class's final exhibition and had colored sheet music I created for attendees to test my project. I also pulled my Arduino code up, printing the color it sensed while playing the color's according musical note.
