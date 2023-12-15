@@ -1,6 +1,7 @@
-Assignment 4: Interactive Creative Coding Final Project (15 Points)
-Due: Finals Period (Beginning of Class)
-Use one of more of the technologies demonstrated in class to build an Interactive Creating Coding project that realizes ideas and/or concepts of your own that you find interesting. JavaScript, P5.js, Max, and Arduino are all available platforms, but other may be considered. In order to make your project interactive consider using sound, video, keyboard, mouse/trackpad, motion sensors, photo diodes, photo resistors, thermostats, datasets, streaming data, or other methods / sensors. Projection, animation, generative behaviors, Perlin Noise, data visualization, and data sonification are all possible avenues for your ideas.
+Assignment 4: Interactive Creative Coding Final Project (15 Points)   
+Due: Finals Period (Beginning of Class)  
+Use one of more of the technologies demonstrated in class to build an Interactive Creating Coding project that realizes ideas and/or concepts of your own that you find interesting. JavaScript, P5.js, Max, and Arduino are all available platforms, but other may be considered. In order to make your project interactive consider using sound, video, keyboard, mouse/trackpad, motion sensors, photo diodes, photo resistors, thermostats, datasets, streaming data, or other methods / sensors. Projection, animation, generative behaviors, Perlin Noise, data visualization, and data sonification are all possible avenues for your ideas.  
+
 
 Requirements:
 1. Use JavaScript, P5.js, Max, and/or Arduino to create an Interactive Creative Coding project
